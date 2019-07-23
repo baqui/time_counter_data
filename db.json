@@ -1,15 +1,78 @@
 {
-  "posts": [
+
+  "projects": [
     {
-      "id": 1,
-      "title": "test post 1"
+      "id": "98cec8a3-8c1e-4c3d-8928-5bab786cfe94",
+      "name": "Truu tu",
+      "time_spent": 180,
+      "logo": "http://logo.clearbit.com/oliv.com",
+      "color": "#3333ff"
+    },
+    {
+      "id": "db17eda0-cc9c-43ff-91d1-0c31357713ef",
+      "name": "Whatsup",
+      "time_spent": 324,
+      "logo": "http://logo.clearbit.com/wp.pl",
+      "color": "#ff00ff"
+    },
+    {
+      "id": "565c4841-f662-450a-ab47-d91d71780f22",
+      "name": "Projekt",
+      "time_spent": 20,
+      "logo": "http://logo.clearbit.com/trojmiasto.pl",
+      "color": "#ccfe00"
+    },
+    {
+      "id": "4c6383df-73c7-48ea-a0e8-f8eb8333685c",
+      "name": "FaceMy",
+      "time_spent": 69,
+      "logo": "http://logo.clearbit.com/tui.com",
+      "color": "#ffcc02"
     }
   ],
   "users": [
     {
-      "id": 1,
-      "name": "Wojciech",
-      "role": "user"
+      "id": "e3e389e7-cac4-4f1a-93af-af1d6ff20ffd",
+      "name": "Lesher Pohar",
+      "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "login": "test1@desmart.com",
+      "password": "123Qwerty"
+    },
+    {
+      "id": "75c969e1-22b4-4c93-8479-f129a31c6b1b",
+      "name": "Seb Oldin",
+      "avatar": "https://randomuser.me/api/portraits/men/23.jpg",
+      "login": "test2@desmart.com",
+      "password": "123Qwerty"
+    },
+    {
+      "id": "d20369ee-4f83-4c89-b467-eaa4c469ff71",
+      "name": "Mar Varik",
+      "avatar": "https://randomuser.me/api/portraits/men/28.jpg",
+      "login": "test3@desmart.com",
+      "password": "123Qwerty"
+    },
+
+    {
+      "id": "54848787-8230-4aac-bb89-8c31e635c3d7",
+      "name": "Zu Derricote",
+      "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+      "login": "test4@desmart.com",
+      "password": "123Qwerty"
+    },
+    {
+      "id": "8fb85a3a-1b10-4f1f-8964-685ca5d5cb00",
+      "name": "Saani volDergar",
+      "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+      "login": "test5@desmart.com",
+      "password": "123Qwerty"
+    },
+    {
+      "id": "9f52d5dd-82de-4530-a2bb-e824e86d92c6",
+      "name": "Azah Bailo",
+      "avatar": "https://randomuser.me/api/portraits/women/28.jpg",
+      "login": "test6@desmart.com",
+      "password": "123Qwerty"
     }
   ]
 }
