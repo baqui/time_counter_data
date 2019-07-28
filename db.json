@@ -74,5 +74,27 @@
       "login": "test6@desmart.com",
       "password": "123Qwerty"
     }
+  ],
+  "points": [
+    {
+      "lat": "54.537351",
+      "lng": "18.483117",
+      "name": "test 1"
+    },
+    {
+      "lat": "54.540077",
+      "lng": "18.479426",
+      "name": "test 2"
+    },
+    {
+      "lat": "54.539293",
+      "lng": "18.489156",
+      "name": "test 3"
+    },
+    {
+      "lat": "54.541360",
+      "lng": "18.480348",
+      "name": "test 4"
+    }
   ]
 }
